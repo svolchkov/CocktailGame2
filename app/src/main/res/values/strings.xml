@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CocktailGame</string>
+    <string name="title_activity_back_image">BackImage</string>
+    <string name="recipe_text">Here is your recipe</string>
+</resources>

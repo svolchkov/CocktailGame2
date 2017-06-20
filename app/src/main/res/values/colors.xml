@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="numberpicker_color_range_start">#000d0b</color>
+    <color name="numberpicker_color_range_end">#fbf8f8</color>
+
+    <color name="back1">#ffcdd2</color>
+    <color name="text1">#e53935</color>
+
+    <color name="back2">#f8bbd0</color>
+    <color name="text2">#d81b60</color>
+
+    <color name="back3">#e1bee7</color>
+    <color name="text3">#8e24aa</color>
+
+    <color name="back4">#d1c4e9</color>
+    <color name="text4">#5e35b1</color>
+
+    <color name="back5">#c5cae9</color>
+    <color name="text5">#3949ab</color>
+
+    <color name="back6">#bbdefb</color>
+    <color name="text6">#1e88e5</color>
+
+    <color name="back7">#b3e5fc</color>
+    <color name="text7">#039be5</color>
+
+    <color name="back8">#b2ebf2</color>
+    <color name="text8">#00acc1</color>
+
+    <color name="back9">#b2dfdb</color>
+    <color name="text9">#00897b</color>
+
+    <color name="back10">#c8e6c9</color>
+    <color name="text10">#43a047</color>
+
+    <color name="back11">#dcedc8</color>
+    <color name="text11">#7cb342</color>
+
+    <color name="back12">#f0f4c3</color>
+    <color name="text12">#c0ca33</color>
+</resources>
